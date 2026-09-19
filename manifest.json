@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-secret-lens",
+  "name": "Secret Lens",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.3",
+  "description": "Substitute ${{secret_name}} with values from the vault-root .env file in Reading view.",
+  "author": "Secret Lens",
+  "isDesktopOnly": true
+}
